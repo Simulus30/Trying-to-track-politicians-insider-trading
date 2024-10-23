@@ -34,7 +34,7 @@ terminal and you type "py" the part where it says "PS C:\Users\YourName\Workspac
 ">>>" and BOOM you have a python terminal.
 
 ### I strongly reccomend:
-learning python on this playlist, helped me a lot. I think his installation tutorial isnt that great because I cannot 
+learning python on [this playlist](https://www.youtube.com/watch?v=6i3e-j3wSf0&list=PL0Zuz27SZ-6MQri81d012LwP5jvFZ_scc), helped me a lot. I think his installation tutorial isnt that great because I cannot 
 stress this enough
 ### When installing python make sure to add it to path
 IDK how or why but whenever I do it without adding to path it will not work
