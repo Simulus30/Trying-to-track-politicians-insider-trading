@@ -1,10 +1,32 @@
 # Trying-to-track-politicians-insider-trading
-I might have to change the code for scaping as they could have changed the website structure but ill be busy till like 
-the end of November so...I guess we will do that then. I think the way i calculate ROI is bad but i actually have no 
-idea how to make sure because YES they could be getting absolutely stupid returns upwards of what 600%? ...
+this assumes you have python working and are able to move through it decently, I reccomend using VS code as you can 
+one get it set up pretty easily and two try out several different languages with different enviorments AND switch 
+between the rather easily.
+### Assumptions that you have the following: 
+Python 3.13.0
+* this is all the packages, im sure if you just pip install pandas, openpyxl, bs4, pytz, datetime you should be fine*
+  beautifulsoup4     4.12.3
+  bs4                0.0.2
+  certifi            2024.8.30
+  charset-normalizer 3.4.0
+  DateTime           5.5
+  et-xmlfile         1.1.0
+  idna               3.10
+  numpy              2.1.2
+  openpyxl           3.1.5
+  pandas             2.2.3
+  pip                24.2
+  python-dateutil    2.9.0.post0
+  pytz               2024.2
+  requests           2.32.3
+  setuptools         75.1.0
+  six                1.16.0
+  soupsieve          2.6
+  tzdata             2024.2
+  urllib3            2.2.3
+  zope.interface     7.1.0
 
-this is the actual README that i made earlier:
-
+  
 dont forget to use pip install and then all the packages: pandas, openpyxl, bs4, pytz, datetime
 in the terminal (once you first start with VS code youll have to manuall install all packages you want, do this at the 
 terminal in the bottom, the text should be someting like "PS C:\Users\YourName\Workspace ") fun fact if youre in this
