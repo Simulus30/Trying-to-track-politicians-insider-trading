@@ -4,27 +4,27 @@ one get it set up pretty easily and two try out several different languages with
 between the rather easily.
 ### Assumptions that you have the following: 
 Python 3.13.0
-* this is all the packages, im sure if you just pip install pandas, openpyxl, bs4, pytz, datetime you should be fine*
-  beautifulsoup4     4.12.3
-  bs4                0.0.2
-  certifi            2024.8.30
-  charset-normalizer 3.4.0
-  DateTime           5.5
-  et-xmlfile         1.1.0
-  idna               3.10
-  numpy              2.1.2
-  openpyxl           3.1.5
-  pandas             2.2.3
-  pip                24.2
-  python-dateutil    2.9.0.post0
-  pytz               2024.2
-  requests           2.32.3
-  setuptools         75.1.0
-  six                1.16.0
-  soupsieve          2.6
-  tzdata             2024.2
-  urllib3            2.2.3
-  zope.interface     7.1.0
+*this is all the packages, im sure if you just pip install pandas, openpyxl, bs4, pytz, datetime you should be fine*
+  + beautifulsoup4     4.12.3
+  + bs4                0.0.2
+  + certifi            2024.8.30
+  + charset-normalizer 3.4.0
+  + DateTime           5.5
+  + et-xmlfile         1.1.0
+  + idna               3.10
+  + numpy              2.1.2
+  + openpyxl           3.1.5
+  + pandas             2.2.3
+  + pip                24.2
+  + python-dateutil    2.9.0.post0
+  + pytz               2024.2
+  + requests           2.32.3
+  + setuptools         75.1.0
+  + six                1.16.0
+  + soupsieve          2.6
+  + tzdata             2024.2
+  + urllib3            2.2.3
+  + zope.interface     7.1.0
 
   
 dont forget to use pip install and then all the packages: pandas, openpyxl, bs4, pytz, datetime
